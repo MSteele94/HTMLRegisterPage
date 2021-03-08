@@ -1,0 +1,32 @@
+form{
+    text-align: center;
+    border: solid black 3px;
+}
+.submit{
+    background-color: blue;
+    color:white;
+    width: 200px;
+}
+.reg{
+    background-color: blue;
+    color:white;
+    
+}
+
+.about{
+    background-color: blue;
+    color: white;
+}
+.navbar{
+    text-align: right;
+    background-color: white;
+    padding: 20px;
+}
+
+.signup{
+    background-color: rgb(111, 178, 255);
+    padding: 150px;
+}
+.sheet{
+    background-color: white;
+}
